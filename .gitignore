@@ -1,0 +1,10 @@
+__pycache__
+stduy_document/
+/static
+/media
+.idea
+.vscode
+env.sh
+.env
+
+my_settings.py
